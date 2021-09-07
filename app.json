@@ -8,7 +8,7 @@
     "success_url": "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
     "stack": "container",
     "env": {
-        "NEUTRO_SESSION": {
+        "AMAZONE_SESSION": {
             "description": "QR SESSION | Qr කේතය scan කළ පසුව ලැබෙන කේතයන්",
             "required": true
         },
