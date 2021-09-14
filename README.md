@@ -3,13 +3,13 @@
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
-<h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
+<h1 align="center"><b> 🧚Amazone Alexa  </b></h1>
 
 
 
 
 <p align="center">
-    Project of  🎭ɴᴇᴏᴛʀᴏ𝙭🪐 - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
+    Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
@@ -20,7 +20,7 @@
 ---------------
 <p align="center">
   <a href="https://github.com/xneon2/Hashzi-X">
-    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
+    <img src="https://img.shields.io/docker/pulls/xneon2/Hashzi-X?style=flat-square"/></a>
   
   </a>
   <a href="https://github.com/xneon2/Hashzi-X">
@@ -147,28 +147,20 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 [![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
   
-### 🚀Neutro Team
 
 👨‍💻 © Chethana Bro *[ Owner ]*
 
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
 
+###🚀Amazone Alexa Team
 
-👨‍💻 Ramilka Rodrigo [ Pluggings  ]
+[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt)
 
-[![Find On Telegram ](https://img.shields.io/badge/Findon-telegram-blue.svg)](https://t.me/ramiya_yt)
+[![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179)
 
-👨‍💻 En Cuizer     [ Logo Creation ]
+[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/)
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+94725549179)
-
-👨‍💻 Hazel Anne   [  BUG Reporter  ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
-
-👨‍💻 Rashid Ziyas  [ Script Writer ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+17723534981)
+[![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981)
  
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
