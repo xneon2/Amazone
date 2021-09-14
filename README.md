@@ -12,9 +12,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 </a>
+Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
+
 <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
-    <Enjoy & stay safe stay home>
+  
+`<Enjoy & stay safe stay home>`
 </p>
 
 </a>
@@ -112,6 +115,14 @@ If you are concerned about security, you can install it on your own computer. If
 ### 💰Do these bots have to pay??
 **Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94766598862) 
 
+### 🔄 Can I Edit this bot?
+
+**As per the license, You Can** But We Will Not Support. 🙃
+
+### ❔ How many features/commands are there in this bot?
+
+There are **100+** Features/Commands Are there in **this bot!**
+
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
@@ -122,9 +133,8 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 
 ## 👨‍💻Developer
 
-)
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
-### Chethana_Bro(Teenuh-X😈
+### Chethana_Bro(Teenuh-X😈)
 <a href="https://Wa.me/+94766598862">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
