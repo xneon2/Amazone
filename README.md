@@ -1,6 +1,6 @@
 #### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
+  [![English](https://img.shields.io/badge/Select-සිංහල-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-English-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
 ![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
 <h1 align="center"><b> 🧚𝘼𝙈𝘼𝙕𝙊𝙉𝙀 𝘼𝙇𝙀𝙓𝘼 (ᴠɪᴘ)  </b></h1>
