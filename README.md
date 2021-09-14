@@ -3,7 +3,7 @@
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
-<h1 align="center"><b> 🧚Amazone Alexa  </b></h1>
+<h1 align="center"><b> 🧚ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ (ᴠɪᴘ)  </b></h1>
 
 
 
@@ -13,8 +13,6 @@
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
-        <a href="https://Wa.me/+94 75 881 7307">En Cuizer whatsapp |
-        
     <Enjoy & stay safe stay home>
 </p>
 ---------------
@@ -86,15 +84,15 @@ From the first device you need to install Neotro-x  Bot.`
 
 > [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
-# 🚀Neotro-x
-Here is the Neotro-x  bot features
+# 🚀Amazone Alexa
+🦹‍♀️Here is the Amazone  bot features
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
   
   </a>
 
-Here is the Neotro-x  Command list
+🦹‍♀️Here is the Alexa  Command list
 
 <a href="https://gist.github.com/xneon2/86f619bc49691abb73546819754e1b94">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
@@ -146,21 +144,13 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 
 [![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
-  
-
-👨‍💻 © Chethana Bro *[ Owner ]*
-
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
 
-###🚀Amazone Alexa Team
 
-[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt)
+### 🚀Amazone Alexa Team
 
-[![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179)
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/)
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981)
+[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179)
+[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981)
  
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
