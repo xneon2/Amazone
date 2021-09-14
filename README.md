@@ -120,6 +120,7 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 
 ## 👨‍💻Developer
 
+#### Chethana_Bro(Teenuh-X😈)
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
 <a href="https://Wa.me/+94766598862">
@@ -156,4 +157,4 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
-[Yusuf Usta](https://t.me/fusufs)
+[Yusuf Usta] (https://t.me/fusufs)
