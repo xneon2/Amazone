@@ -2,8 +2,8 @@
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
-![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
-<h1 align="center"><b> 🧚ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ (ᴠɪᴘ)  </b></h1>
+![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
+<h1 align="center"><b> 🧚𝘼𝙈𝘼𝙕𝙊𝙉𝙀 𝘼𝙇𝙀𝙓𝘼 (ᴠɪᴘ)  </b></h1>
 
 
 
@@ -114,15 +114,15 @@ If you are concerned about security, you can install it on your own computer. If
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Neotro-x  executives do not accept responsibility.
-By establishing the neotro-x, you are deemed to have accepted these responsibilities.
+Absolutely, alexa  executives do not accept responsibility.
+By establishing the alexa, you are deemed to have accepted these responsibilities.
 ```
 
 ## 👨‍💻Developer
 
 )
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
-#### Chethana_Bro(Teenuh-X😈
+### Chethana_Bro(Teenuh-X😈
 <a href="https://Wa.me/+94766598862">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
@@ -157,4 +157,4 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
-[Yusuf Usta] (https://t.me/fusufs)
+[Yusuf Usta](https://t.me/fusufs)
