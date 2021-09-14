@@ -6,30 +6,27 @@
 <h1 align="center"><b> 🧚𝘼𝙈𝘼𝙕𝙊𝙉𝙀 𝘼𝙇𝙀𝙓𝘼 (ᴠɪᴘ)  </b></h1>
 
 
-<p align="center">
-    <a href="https://github.com/Amazone">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=2000&lines=Welcome+To+Amazone+Alexa...+Thank+You+For+Visiting...."
-            alt="Typing SVG"
-        />
-    </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 </a>
 <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
     <Enjoy & stay safe stay home>
 </p>
----------------
+
+</a>
 <p align="center">
   <a href="https://github.com/xneon2/Hashzi-X">
     <img src="https://img.shields.io/docker/pulls/xneon2/Hashzi-X?style=flat-square"/></a>
-  
   </a>
   <a href="https://github.com/xneon2/Hashzi-X">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
+
 </p>
 
 <p align="center">
