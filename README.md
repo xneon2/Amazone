@@ -5,18 +5,18 @@
 ![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
 <h1 align="center"><b> 🧚𝘼𝙈𝘼𝙕𝙊𝙉𝙀 𝘼𝙇𝙀𝙓𝘼 (ᴠɪᴘ)  </b></h1>
 
+
 <p align="center">
     <a href="https://github.com/Amazone">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=67&width=1000&lines=Welcome+To+Amazone+Alexa...+Thank+You+For+Visiting...."
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=2000&lines=Welcome+To+Amazone+Alexa...+Thank+You+For+Visiting...."
             alt="Typing SVG"
         />
     </a>
 </p>
 
 </a>
-
-        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
+<a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
     <Enjoy & stay safe stay home>
 </p>
