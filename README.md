@@ -13,6 +13,7 @@
         />
     </a>
 </p>
+</a>
 
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
