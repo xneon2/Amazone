@@ -9,8 +9,11 @@
 
 
 <p align="center">
-    Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
-    <br>
+    https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Amazone Alexa...+Thank+You+For+Visiting...."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
     <Enjoy & stay safe stay home>
